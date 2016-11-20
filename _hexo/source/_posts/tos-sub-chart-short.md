@@ -1,6 +1,6 @@
 categories: "Tree Of Savior"
 date: 2016-11-20 17:49:50
-permalink: tree-of-savior-sub-chart
+permalink: tree-of-savior-sub-chart-short
 title: "サブ育成チャート短縮版"
 ---
 
