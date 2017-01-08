@@ -4,7 +4,7 @@ permalink: tree-of-savior-sub-chart-short
 title: "サブ育成チャート短縮版"
 ---
 
-R6まで。
+バフ屋などR6までで完了するもの。
 
 印刷して □ を塗りつぶしてくといいよ。
 
