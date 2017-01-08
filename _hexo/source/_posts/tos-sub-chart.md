@@ -7,6 +7,8 @@ title: "[Tree of Savior] サブ育成レベリングチャート(オルシャス
 印刷して □ を塗りつぶしてくといいよ。  
 不備があったり書き加えてほしいことがある場合はコメント欄におねがいします。
 
+<!-- more -->
+
 - マップは [TOSCAMP](http://toscamp.com/map/map4.1.php?lang=jp) が便利だよ。
 - 経験値カードはLv9以下は最低限の取得で十分。Lv11以上はうまい。
 - 経験値カードは基本的に適正レベルのIDが無ければさっさと使う。
@@ -42,8 +44,6 @@ title: "[Tree of Savior] サブ育成レベリングチャート(オルシャス
   - Lv252-280: Lv11経験値カード・Lv262保管室・Lv265独房・Lv269作業室・Lv274メイバーン修道院
   - Lv280-300: Lv12-13経験値カード・Lv289ラダル森・Lv292ティメリス寺院・Lv292ジェロメル公園
   - Lv300-330: Lv12-14経験値カード・Lv307アルコス森・ドロップ品狙いでフィールド狩り
-
-<!-- more -->
 
 <pre style="border:1px dotted #333; font-family: 'ヒラギノ丸ゴ ProN W4', 'Hiragino Maru Gothic ProN', 'メイリオ', meiryo, 'Helvetica Neue', Helvetica, Georgia, serif;">
 □ 事前準備 (チーム倉庫)
